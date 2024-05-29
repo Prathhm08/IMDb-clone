@@ -81,4 +81,4 @@ If you would like to contribute to the project, feel free to fork the repository
 - React.js and Next.js for the awesome frameworks.
 
 **Contact**
-If you have any questions or feedback, feel free to reach out [here](prathampriv8@gmail.com) .
+- If you have any questions or feedback, feel free to reach out [here](prathampriv8@gmail.com) .
